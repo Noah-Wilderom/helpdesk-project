@@ -6,7 +6,7 @@
  * @method Void bind(String $parameter, String $value, PDO Type $type{OPTIONAL})
  * @method Object execute()
  * @method Object resultSet()
- * @method Object singel()
+ * @method Object single()
  * @method Int rowCount()
  * 
  * @author Noah Wilderom
